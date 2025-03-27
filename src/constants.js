@@ -1,0 +1,14 @@
+export const RIGHT_CLAIM_BOOKING_SEARCH = 112001;         // Permission to query claim bookings
+export const RIGHT_CLAIM_BOOKING_ADD = 112002;            // Permission to create claim bookings
+export const RIGHT_CLAIM_BOOKING_EDIT = 112003;           // Permission to update claim bookings
+export const RIGHT_CLAIM_BOOKING_DELETE = 112004;         // Permission to delete claim bookings
+export const RIGHT_CLAIM_BOOKING_TOGGLE_STATUS = 112005;  // Permission to toggle claim booking status
+export const RIGHT_CLAIM_BOOKING_SEND_EMAIL = 112006;     // Permission to send email notifications
+export const RIGHT_CLAIM_BOOKING_SEND_SMS = 112007;       // Permission to send SMS notifications
+export const CLAIM_BOOKING_CATEGORIES = [];
+export const CLAIM_BOOKING_FLAG_OPTIONS = [];
+export const CLAIM_BOOKING_PRIORITY_LEVELS = ['HIGH', 'MEDIUM', 'LOW'];
+export const ATTACHMENT_TYPE_STATUS = ['URL', 'FILE'];
+export const DEFAULT = '';
+export const RIGHT_ADD = 1;
+export const URL_TYPE_STRING = '';

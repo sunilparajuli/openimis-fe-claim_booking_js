@@ -1,0 +1,23 @@
+{
+  "claim-booking.mainMenu": "Claim Bookings",
+  "booking.product": "Product",
+  "booking.insuree": "Insuree",
+  "booking.health_facility": "Health Facility",
+  "booking.booked_amount": "Booked Amount",
+  "booking.client_claim_id": "Client Claim ID",
+  "booking.visit_date": "Visit Date",
+  "booking.sendEmail": "Send Email",
+  "booking.sendSMS": "Send SMS",
+  "booking.editBooking": "Edit Booking",
+  "booking.bookings_table.count": "{count} Claim Bookings",
+  "booking.mutationError": "Mutation failed: {error}",
+  "booking.actions": "Action",
+  "claimBooking.booking.product": "Product",
+  "claimBooking.booking.insuree": "Insuree",
+  "claimBooking.booking.health_facility": "Health Facility",
+  "claimBooking.booking.booked_amount": "Booked Amount",
+  "claimBooking.booking.visit_date": "Visit Date",
+  "claimBooking.booking.validity_from": "Validity From",
+  "claimBooking.booking.validity_to": "Validity To",
+  "claimBooking.booking.client_claim_id": "Client Claim ID"
+}
